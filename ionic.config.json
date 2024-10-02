@@ -1,0 +1,7 @@
+{
+  "name": "preliminar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
