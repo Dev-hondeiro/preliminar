@@ -1,10 +1,11 @@
 #container {
-  text-align: center;
-
+  text-align: left;
+  display: flex;
+  flex-direction: column;
   position: absolute;
   left: 0;
   right: 0;
-  top: 50%;
+  top: 30%;
   transform: translateY(-50%);
 }
 
@@ -17,7 +18,7 @@
   font-size: 16px;
   line-height: 22px;
 
-  color: #8c8c8c;
+  color: black;
 
   margin: 0;
 }
